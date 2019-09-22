@@ -20,6 +20,8 @@ import java.io.*;
  * Input:"I love dogs"
  * Output:"love"
  *
+ * Input: "a confusing /:sentence:/[ this is not!!!!!!!~"
+ * Output: confusing
  *
  */
 
