@@ -23,6 +23,12 @@ import java.io.*;
  * Input: "a confusing /:sentence:/[ this is not!!!!!!!~"
  * Output: confusing
  *
+ * Input: "coderbyte"
+ * Output: coderbyte
+ *
+ * Input: "java "
+ * Output: 12345
+ *
  */
 
  import java.util.*;
