@@ -15,8 +15,8 @@ import java.util.Scanner;
  * Output:"24"
  * Reasoning: 4 x 3 x 2 x 1 = 24
  *
- * Input:"-1"
- * Output:"edoC evoL I"
+ * Input:"1"
+ * Output:"1"
  *
  *
  */
